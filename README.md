@@ -6,3 +6,4 @@ problem links :
 4) https://www.codechef.com/DEC20B/problems/VACCINE1
 5) https://www.codechef.com/DEC20B/problems/EVENPSUM
 6) https://www.codechef.com/DEC20B/problems/VACCINE2
+7) https://www.codechef.com/DEC20B/problems/POSPREFS
